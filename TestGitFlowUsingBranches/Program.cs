@@ -10,6 +10,8 @@ namespace TestGitFlowUsingBranches
     {
         static void Main(string[] args)
         {
+
+            var kk = 1;
         }
     }
 }
