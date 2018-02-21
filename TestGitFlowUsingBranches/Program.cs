@@ -10,6 +10,7 @@ namespace TestGitFlowUsingBranches
     {
         static void Main(string[] args)
         {
+            var ddd = "dsdsd";
         }
     }
 }
